@@ -48,7 +48,7 @@ gem "faker"
 gem "open-uri"
 
 gem "carrierwave"
-gem "cloudinary", "~> 1.29"
+gem "cloudinary", "~> 2.3"
 
 gem "kaminari"
 gem "cancancan"
